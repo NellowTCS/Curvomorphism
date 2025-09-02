@@ -16,8 +16,8 @@ It creates this subtle “pull” toward the center of the UI. Everything feels 
 ```
 All corners the same:
 ╭─────────╮← Rounded all around
-│         │
-│         │
+│          │
+│          │
 ╰─────────╯
 ```
 
@@ -30,7 +30,7 @@ Top-left element:          Top-right element:
 ┌─────────┐               ┌─────────┐← Outer corners sharp
 │         │               │         |  
 │         │               │         |
-└─────────╯               ╰─────────┘
+└─────────╯              ╰─────────┘
            ↑______________↑__ Rounded inner
             
 ┌─────────╮               ╭─────────┐
